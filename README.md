@@ -1,3 +1,8 @@
+## 👋 About This Project
+This project was part of my learning journey in data engineering.
+My goal was to build a real ETL pipeline from an open API using Python and Pandas,
+and to understand how automation and data pipelines work in practice.
+
 # ⚡ EnergyZero ETL Project (Week 8 – Data Processing and ETL with Python)
 
 This project is part of the **VIT Data Engineering learning module (Week 8)**.  
